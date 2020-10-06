@@ -13,11 +13,22 @@ A robotic arm that sorts objects based on colors, implemented for the color blue
 * Arduino microcontroller
 * Pi cam
 
+![alt text](Arm.png)
+
 ## Software needed:
 * Python --Opencv
 * Arduino
 
-## Flow Diagram: 
-
 ## Implementation: 
-*
+![alt text](implementation.png)
+
+## Results:
+
+* For image processing and color detection:
+![alt text](color_output.png)
+
+* For pick and place robot
+![alt text](output1.png)
+![alt text](output2.png)
+
+
